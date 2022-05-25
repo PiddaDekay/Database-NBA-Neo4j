@@ -1,6 +1,7 @@
 # NBA-Neo4j
 Created graph database using Cypher, than test some sample questions using python connected with Neo4j
 Five Business questions
+Finished in March 2021
 1. Which team has the most number of championships
 2. Average salary of coach
 3. Who has the highest FGP in his career
